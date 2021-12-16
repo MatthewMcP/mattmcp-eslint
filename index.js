@@ -51,7 +51,6 @@ module.exports = {
         'jsx-a11y/click-events-have-key-events': 'off',
         'jsx-a11y/no-static-element-interactions': 'off',
         'jsx-quotes': ['error', 'prefer-single'],
-        'linebreak-style': ['error', 'windows'],
         'lines-between-class-members': ['error', 'always', { exceptAfterSingleLine: true }],
         'max-classes-per-file': ['error', 1],
         'max-len': ['warn', { code: 150 }],
