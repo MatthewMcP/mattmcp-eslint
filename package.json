@@ -1,6 +1,6 @@
 {
     "name": "eslint-config-mattmcp",
-    "version": "0.0.4",
+    "version": "0.0.5",
     "description": "React eslint config for Matthew McParland",
     "main": "index.js",
     "scripts": {

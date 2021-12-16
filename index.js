@@ -16,6 +16,11 @@ module.exports = {
         react: {
             version: 'latest',
         },
+        'import/resolver': {
+            node: {
+                extensions: ['.js', '.jsx', '.ts', '.tsx'],
+            },
+        },
     },
     extends: [
         'airbnb-base',
