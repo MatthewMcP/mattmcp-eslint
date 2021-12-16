@@ -24,7 +24,6 @@ module.exports = {
         'plugin:react/recommended',
         'plugin:react-hooks/recommended',
         'plugin:import/recommended',
-        'prettier',
     ],
 
     plugins: ['react'],
